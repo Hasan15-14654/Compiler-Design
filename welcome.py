@@ -1,0 +1,12 @@
+print("Total 5 member:")
+name1 = input("Enter a your name: ")
+name2 = input("Enter a your name: ")
+name3 = input("Enter a your name: ")
+name4 = input("Enter a your name: ")
+name5 = input("Enter a your name: ")
+
+print(f"{name1} Welcome to Our University\n")
+print(f"{name2} Welcome to Our University\n")
+print(f"{name3} Welcome to Our University\n")
+print(f"{name4} Welcome to Our University\n")
+print(f"{name5} Welcome to Our University\n")
